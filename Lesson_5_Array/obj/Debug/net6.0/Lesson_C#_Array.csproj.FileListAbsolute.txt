@@ -1,0 +1,16 @@
+C:\Users\Алексей\Desktop\дом\Развитие\Обучение\Обучение науке о данных\Geek Brains\1 четверть\2 Контроль версий\Практика\Lesson_C#_Array\bin\Debug\net6.0\Lesson_C#_Array.exe
+C:\Users\Алексей\Desktop\дом\Развитие\Обучение\Обучение науке о данных\Geek Brains\1 четверть\2 Контроль версий\Практика\Lesson_C#_Array\bin\Debug\net6.0\Lesson_C#_Array.deps.json
+C:\Users\Алексей\Desktop\дом\Развитие\Обучение\Обучение науке о данных\Geek Brains\1 четверть\2 Контроль версий\Практика\Lesson_C#_Array\bin\Debug\net6.0\Lesson_C#_Array.runtimeconfig.json
+C:\Users\Алексей\Desktop\дом\Развитие\Обучение\Обучение науке о данных\Geek Brains\1 четверть\2 Контроль версий\Практика\Lesson_C#_Array\bin\Debug\net6.0\Lesson_C#_Array.runtimeconfig.dev.json
+C:\Users\Алексей\Desktop\дом\Развитие\Обучение\Обучение науке о данных\Geek Brains\1 четверть\2 Контроль версий\Практика\Lesson_C#_Array\bin\Debug\net6.0\Lesson_C#_Array.dll
+C:\Users\Алексей\Desktop\дом\Развитие\Обучение\Обучение науке о данных\Geek Brains\1 четверть\2 Контроль версий\Практика\Lesson_C#_Array\bin\Debug\net6.0\ref\Lesson_C#_Array.dll
+C:\Users\Алексей\Desktop\дом\Развитие\Обучение\Обучение науке о данных\Geek Brains\1 четверть\2 Контроль версий\Практика\Lesson_C#_Array\bin\Debug\net6.0\Lesson_C#_Array.pdb
+C:\Users\Алексей\Desktop\дом\Развитие\Обучение\Обучение науке о данных\Geek Brains\1 четверть\2 Контроль версий\Практика\Lesson_C#_Array\obj\Debug\net6.0\Lesson_C#_Array.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\дом\Развитие\Обучение\Обучение науке о данных\Geek Brains\1 четверть\2 Контроль версий\Практика\Lesson_C#_Array\obj\Debug\net6.0\Lesson_C#_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\дом\Развитие\Обучение\Обучение науке о данных\Geek Brains\1 четверть\2 Контроль версий\Практика\Lesson_C#_Array\obj\Debug\net6.0\Lesson_C#_Array.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\дом\Развитие\Обучение\Обучение науке о данных\Geek Brains\1 четверть\2 Контроль версий\Практика\Lesson_C#_Array\obj\Debug\net6.0\Lesson_C#_Array.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\дом\Развитие\Обучение\Обучение науке о данных\Geek Brains\1 четверть\2 Контроль версий\Практика\Lesson_C#_Array\obj\Debug\net6.0\Lesson_C#_Array.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\дом\Развитие\Обучение\Обучение науке о данных\Geek Brains\1 четверть\2 Контроль версий\Практика\Lesson_C#_Array\obj\Debug\net6.0\Lesson_C#_Array.dll
+C:\Users\Алексей\Desktop\дом\Развитие\Обучение\Обучение науке о данных\Geek Brains\1 четверть\2 Контроль версий\Практика\Lesson_C#_Array\obj\Debug\net6.0\ref\Lesson_C#_Array.dll
+C:\Users\Алексей\Desktop\дом\Развитие\Обучение\Обучение науке о данных\Geek Brains\1 четверть\2 Контроль версий\Практика\Lesson_C#_Array\obj\Debug\net6.0\Lesson_C#_Array.pdb
+C:\Users\Алексей\Desktop\дом\Развитие\Обучение\Обучение науке о данных\Geek Brains\1 четверть\2 Контроль версий\Практика\Lesson_C#_Array\obj\Debug\net6.0\Lesson_C#_Array.genruntimeconfig.cache
