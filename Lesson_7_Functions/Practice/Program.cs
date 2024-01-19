@@ -1,10 +1,10 @@
 ﻿using System;
 
-// Напишите программу, которая бесконечно запрашивает целые числа с консоли. Программа завершается при вводе символа ‘q’ или при вводе числа, сумма цифр которого чётная.
+//  Задание 1 Напишите программу, которая бесконечно запрашивает целые числа с консоли. Программа завершается при вводе символа ‘q’ или при вводе числа, сумма цифр которого чётная.
 
 void Cicl()
     {
-        string? control = "";
+        string control = "";
         bool num = false;
         while (num == false)
         {
@@ -17,8 +17,6 @@ void Cicl()
                 foreach(char c in control)
                 {
                     sum += (int)Char.GetNumericValue(c);
-                    Console.WriteLine(c);
-                    Console.WriteLine(sum);
                 }
                 if (sum%2 != 0)
                 {
@@ -31,7 +29,37 @@ void Cicl()
             }
         }
     }
-Cicl ();
+//Cicl ();
 
+//Задача 2: Задайте массив заполненный случайными трёхзначными числами. Напишите программу, которая покажет количество чётных чисел в массиве.
+
+int [] Arr(int len)
+{
+    int [] arry = new int[len];
+    for (int i = 0; i < len; i++)
+    {
+        arry[i] = new Random().Next(99,1000);
+        Console.Write($"{arry[i]} ");
+    }
+    Console.WriteLine();
+    return arry;
+}
+void NumCol(int[] arry)
+{
+    int col = 0;
+    foreach(int e in arry)
+    {
+        if(e%2==0)
+        {
+            col+=1;
+        }
+    }
+    Console.WriteLine(col);
+}
+
+Console.WriteLine("Введите размер массива:");
+int len = int.Parse(Console.ReadLine());
+int [] arry = Arr(len);
+NumCol (arry);
 
 
