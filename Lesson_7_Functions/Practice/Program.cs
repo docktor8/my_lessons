@@ -33,13 +33,13 @@ void Cicl()
 
 //Задача 2: Задайте массив заполненный случайными трёхзначными числами. Напишите программу, которая покажет количество чётных чисел в массиве.
 
-int [] Arr(int len)
+int [] Arr(int len, int min, int max)//Функция возращающая одномерный массив по его длине
 {
     int [] arry = new int[len];
     for (int i = 0; i < len; i++)
     {
-        arry[i] = new Random().Next(99,1000);
-        Console.Write($"{arry[i]} ");
+        arry[i] = new Random().Next(min,max);
+        Console.WriteLine($"{arry[i]} ");
     }
     Console.WriteLine();
     return arry;
@@ -57,9 +57,33 @@ void NumCol(int[] arry)
     Console.WriteLine(col);
 }
 
+//Console.WriteLine("Введите размер массива:");
+//int len = int.Parse(Console.ReadLine());
+//Console.WriteLine("Введите введите минимальное число массива массива:");
+//int min = int.Parse(Console.ReadLine());
+//Console.WriteLine("Введите введите максимальное число массива массива:");
+//int max = int.Parse(Console.ReadLine());
+//int [] arry = Arr(len, min, max);
+//NumCol (arry);
+
+//Задача 3:Заполните массив на N (вводится с консоли, не более 8) случайных целых чисел от 0 до 9. Сформируйте целое число, которое будет состоять из цифр из массива. 
+//Старший разряд числа находится на 0-м индексе, младший – на последнем.
+
 Console.WriteLine("Введите размер массива:");
 int len = int.Parse(Console.ReadLine());
-int [] arry = Arr(len);
-NumCol (arry);
-
-
+Console.WriteLine("Введите введите минимальное число массива массива:");
+int min = int.Parse(Console.ReadLine());
+Console.WriteLine("Введите введите максимальное число массива массива:");
+int max = int.Parse(Console.ReadLine());
+int [] arry = Arr(len, min, max);
+void NumArr(int [] arry)
+{
+    int num = 0;           
+    for (int i = 0; i<arry.Length; i++)
+    {
+        num *=10;
+        num += arry[i];
+    }
+    Console.WriteLine(num);
+}
+NumArr(arry);
