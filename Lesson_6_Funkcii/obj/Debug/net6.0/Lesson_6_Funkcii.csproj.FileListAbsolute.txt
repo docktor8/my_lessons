@@ -1,0 +1,15 @@
+D:\LESSON\my_lessons\Lesson_6_Funkcii\bin\Debug\net6.0\Lesson_6_Funkcii.exe
+D:\LESSON\my_lessons\Lesson_6_Funkcii\bin\Debug\net6.0\Lesson_6_Funkcii.deps.json
+D:\LESSON\my_lessons\Lesson_6_Funkcii\bin\Debug\net6.0\Lesson_6_Funkcii.runtimeconfig.json
+D:\LESSON\my_lessons\Lesson_6_Funkcii\bin\Debug\net6.0\Lesson_6_Funkcii.dll
+D:\LESSON\my_lessons\Lesson_6_Funkcii\bin\Debug\net6.0\Lesson_6_Funkcii.pdb
+D:\LESSON\my_lessons\Lesson_6_Funkcii\obj\Debug\net6.0\Lesson_6_Funkcii.csproj.AssemblyReference.cache
+D:\LESSON\my_lessons\Lesson_6_Funkcii\obj\Debug\net6.0\Lesson_6_Funkcii.GeneratedMSBuildEditorConfig.editorconfig
+D:\LESSON\my_lessons\Lesson_6_Funkcii\obj\Debug\net6.0\Lesson_6_Funkcii.AssemblyInfoInputs.cache
+D:\LESSON\my_lessons\Lesson_6_Funkcii\obj\Debug\net6.0\Lesson_6_Funkcii.AssemblyInfo.cs
+D:\LESSON\my_lessons\Lesson_6_Funkcii\obj\Debug\net6.0\Lesson_6_Funkcii.csproj.CoreCompileInputs.cache
+D:\LESSON\my_lessons\Lesson_6_Funkcii\obj\Debug\net6.0\Lesson_6_Funkcii.dll
+D:\LESSON\my_lessons\Lesson_6_Funkcii\obj\Debug\net6.0\refint\Lesson_6_Funkcii.dll
+D:\LESSON\my_lessons\Lesson_6_Funkcii\obj\Debug\net6.0\Lesson_6_Funkcii.pdb
+D:\LESSON\my_lessons\Lesson_6_Funkcii\obj\Debug\net6.0\Lesson_6_Funkcii.genruntimeconfig.cache
+D:\LESSON\my_lessons\Lesson_6_Funkcii\obj\Debug\net6.0\ref\Lesson_6_Funkcii.dll
