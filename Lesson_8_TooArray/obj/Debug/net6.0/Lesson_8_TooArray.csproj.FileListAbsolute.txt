@@ -1,0 +1,16 @@
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\obj\Debug\net6.0\Lesson_8_TooArray.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\obj\Debug\net6.0\Lesson_8_TooArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\obj\Debug\net6.0\Lesson_8_TooArray.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\obj\Debug\net6.0\Lesson_8_TooArray.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\obj\Debug\net6.0\Lesson_8_TooArray.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\bin\Debug\net6.0\Lesson_8_TooArray.exe
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\bin\Debug\net6.0\Lesson_8_TooArray.deps.json
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\bin\Debug\net6.0\Lesson_8_TooArray.runtimeconfig.json
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\bin\Debug\net6.0\Lesson_8_TooArray.runtimeconfig.dev.json
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\bin\Debug\net6.0\Lesson_8_TooArray.dll
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\bin\Debug\net6.0\ref\Lesson_8_TooArray.dll
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\bin\Debug\net6.0\Lesson_8_TooArray.pdb
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\obj\Debug\net6.0\Lesson_8_TooArray.dll
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\obj\Debug\net6.0\ref\Lesson_8_TooArray.dll
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\obj\Debug\net6.0\Lesson_8_TooArray.pdb
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\obj\Debug\net6.0\Lesson_8_TooArray.genruntimeconfig.cache
