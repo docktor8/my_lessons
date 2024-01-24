@@ -1,0 +1,16 @@
+C:\Users\Алексей\Desktop\Lesson\Lesson_9_Rekurs\bin\Debug\net6.0\Lesson_9_Rekurs.exe
+C:\Users\Алексей\Desktop\Lesson\Lesson_9_Rekurs\bin\Debug\net6.0\Lesson_9_Rekurs.deps.json
+C:\Users\Алексей\Desktop\Lesson\Lesson_9_Rekurs\bin\Debug\net6.0\Lesson_9_Rekurs.runtimeconfig.json
+C:\Users\Алексей\Desktop\Lesson\Lesson_9_Rekurs\bin\Debug\net6.0\Lesson_9_Rekurs.runtimeconfig.dev.json
+C:\Users\Алексей\Desktop\Lesson\Lesson_9_Rekurs\bin\Debug\net6.0\Lesson_9_Rekurs.dll
+C:\Users\Алексей\Desktop\Lesson\Lesson_9_Rekurs\bin\Debug\net6.0\ref\Lesson_9_Rekurs.dll
+C:\Users\Алексей\Desktop\Lesson\Lesson_9_Rekurs\bin\Debug\net6.0\Lesson_9_Rekurs.pdb
+C:\Users\Алексей\Desktop\Lesson\Lesson_9_Rekurs\obj\Debug\net6.0\Lesson_9_Rekurs.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\Lesson\Lesson_9_Rekurs\obj\Debug\net6.0\Lesson_9_Rekurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\Lesson\Lesson_9_Rekurs\obj\Debug\net6.0\Lesson_9_Rekurs.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\Lesson\Lesson_9_Rekurs\obj\Debug\net6.0\Lesson_9_Rekurs.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\Lesson\Lesson_9_Rekurs\obj\Debug\net6.0\Lesson_9_Rekurs.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Lesson\Lesson_9_Rekurs\obj\Debug\net6.0\Lesson_9_Rekurs.dll
+C:\Users\Алексей\Desktop\Lesson\Lesson_9_Rekurs\obj\Debug\net6.0\ref\Lesson_9_Rekurs.dll
+C:\Users\Алексей\Desktop\Lesson\Lesson_9_Rekurs\obj\Debug\net6.0\Lesson_9_Rekurs.pdb
+C:\Users\Алексей\Desktop\Lesson\Lesson_9_Rekurs\obj\Debug\net6.0\Lesson_9_Rekurs.genruntimeconfig.cache
