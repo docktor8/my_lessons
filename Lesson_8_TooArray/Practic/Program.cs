@@ -57,5 +57,6 @@ string FormStrRevers(string str)
     }
     return str_rev;
 }
+
 string result = FormStrRevers(str);
 Console.WriteLine(result);

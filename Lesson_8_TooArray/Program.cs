@@ -1,7 +1,7 @@
-﻿using System;
+﻿/* using System;
 Random rnd = new Random();
-//int[,] matrix = new int[3, 5];
-/* for (int i = 0; i < matrix.GetLength(0); i++)
+int[,] matrix = new int[3, 5];
+for (int i = 0; i < matrix.GetLength(0); i++)
 {
     for (int j = 0; j < matrix.GetLength(1); j++)
     {
@@ -17,9 +17,9 @@ for (int i = 0; i < matrix.GetLength(0); i++)
         Console.Write($"{matrix[i, j]} ");
     }
     Console.WriteLine();
-} */
+} 
 
-/* int[,] GretMatrix(int rowCount, int cntolumnCout)
+int[,] GretMatrix(int rowCount, int cntolumnCout)
 {
     int[,] matrix = new int[rowCount, cntolumnCout];
     for (int i = 0; i < matrix.GetLength(0); i++)
@@ -77,7 +77,7 @@ int GetSum(int value)
     }
     return sum;
 }
- */
+
 string GetLetters(string s)
 {
     string letters = "";
@@ -92,4 +92,4 @@ string GetLetters(string s)
 }
 string str = Console.ReadLine();
 string result = GetLetters(str);
-Console.WriteLine(result);
+Console.WriteLine(result); */
