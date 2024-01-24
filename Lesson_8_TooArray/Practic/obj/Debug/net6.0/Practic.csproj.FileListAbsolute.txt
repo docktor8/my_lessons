@@ -1,0 +1,16 @@
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\Practic\obj\Debug\net6.0\Practic.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\Practic\obj\Debug\net6.0\Practic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\Practic\obj\Debug\net6.0\Practic.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\Practic\obj\Debug\net6.0\Practic.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\Practic\obj\Debug\net6.0\Practic.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\Practic\bin\Debug\net6.0\Practic.exe
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\Practic\bin\Debug\net6.0\Practic.deps.json
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\Practic\bin\Debug\net6.0\Practic.runtimeconfig.json
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\Practic\bin\Debug\net6.0\Practic.runtimeconfig.dev.json
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\Practic\bin\Debug\net6.0\Practic.dll
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\Practic\bin\Debug\net6.0\ref\Practic.dll
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\Practic\bin\Debug\net6.0\Practic.pdb
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\Practic\obj\Debug\net6.0\Practic.dll
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\Practic\obj\Debug\net6.0\ref\Practic.dll
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\Practic\obj\Debug\net6.0\Practic.pdb
+C:\Users\Алексей\Desktop\Lesson\Lesson_8_TooArray\Practic\obj\Debug\net6.0\Practic.genruntimeconfig.cache
