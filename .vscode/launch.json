@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: Lesson_8_TooArray",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Lesson_8_TooArray\\Lesson_8_TooArray.csproj",
+            "launchConfigurationId": "TargetFramework=;Lesson_8_TooArray"
+        }
+    ]
+}

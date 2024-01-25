@@ -39,7 +39,7 @@ int [] Arr(int len, int min, int max)//Функция возращающая о�
     for (int i = 0; i < len; i++)
     {
         arry[i] = new Random().Next(min,max);
-        Console.WriteLine($"{arry[i]} ");
+        //Console.Write($"{arry[i]} ");
     }
     Console.WriteLine();
     return arry;

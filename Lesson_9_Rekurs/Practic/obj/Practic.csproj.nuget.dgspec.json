@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Алексей\\Desktop\\Lesson\\Lesson_6_Funkcii\\Lesson_6_Funkcii.csproj": {}
+    "C:\\Users\\Алексей\\Desktop\\Lesson\\Lesson_9_Rekurs\\Practic\\Practic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Алексей\\Desktop\\Lesson\\Lesson_6_Funkcii\\Lesson_6_Funkcii.csproj": {
+    "C:\\Users\\Алексей\\Desktop\\Lesson\\Lesson_9_Rekurs\\Practic\\Practic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Алексей\\Desktop\\Lesson\\Lesson_6_Funkcii\\Lesson_6_Funkcii.csproj",
-        "projectName": "Lesson_6_Funkcii",
-        "projectPath": "C:\\Users\\Алексей\\Desktop\\Lesson\\Lesson_6_Funkcii\\Lesson_6_Funkcii.csproj",
+        "projectUniqueName": "C:\\Users\\Алексей\\Desktop\\Lesson\\Lesson_9_Rekurs\\Practic\\Practic.csproj",
+        "projectName": "Practic",
+        "projectPath": "C:\\Users\\Алексей\\Desktop\\Lesson\\Lesson_9_Rekurs\\Practic\\Practic.csproj",
         "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Алексей\\Desktop\\Lesson\\Lesson_6_Funkcii\\obj\\",
+        "outputPath": "C:\\Users\\Алексей\\Desktop\\Lesson\\Lesson_9_Rekurs\\Practic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
